@@ -1,0 +1,15 @@
+.weather {
+
+	min-width: 200px;
+	min-height: 200px;
+	background-color: #bebebe;
+}
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;	
+	height: 100vh;
+}
+* {
+	box-sizing: border-box;
+}
